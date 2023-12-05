@@ -1,1 +1,1 @@
-# playingw-JavaScript
+# playingw/JavaScript
